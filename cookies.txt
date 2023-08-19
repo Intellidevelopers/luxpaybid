@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+kobobid.com	TRUE	/	FALSE	1999999999	AWSALB	xPL28l8i+AT/nfCifFY15T2c9oLjw1v5L8egjxPz8KJwD6NY8299wicGipjnbQWezOEFq60y+PeXfab2p/mEtzEFq4IWGTaIQl89USSXPLIJfxpYyHeoc33Zk2tI
+kobobid.com	TRUE	/	FALSE	1999999999	AWSALBCORS	xPL28l8i+AT/nfCifFY15T2c9oLjw1v5L8egjxPz8KJwD6NY8299wicGipjnbQWezOEFq60y+PeXfab2p/mEtzEFq4IWGTaIQl89USSXPLIJfxpYyHeoc33Zk2tI
+kobobid.com	TRUE	/	FALSE	1999999999	SameSite	None
+.kobobid.com	TRUE	/	FALSE	1999999999	kobobid_app.sess	s%3AqXRPD4Pd267rDjS4hicbtAHqzNYNha9F.WGGAbSdz%2F3Mv4fQADmbg0z8Y0Ge7iuAdfAqwH4RT6Eg
+

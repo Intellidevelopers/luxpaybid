@@ -1,0 +1,76 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Aug 2023 19:18:37 at https://kobobid.com/scratch +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kobobid.com/scratch -O1 "C:\My Web Sites\Luxpay Scratch" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:20:34	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://kobobid.com/scratch)
+19:23:42	Warning: 	Retry after error -4 (Connect Error) at link https://cdn.kobobid.com/live/css/font/FuturaPT-ExtraBoldObl.woff (from https://cdn.kobobid.com/live/css/font/stylesheet.css)
+19:26:24	Warning: 	Found for https://kobobid.com/fantasy/64da37b79c8c678afd0bb772/osa-vs-ath-20k/
+19:26:24	Warning: 	File has moved from https://kobobid.com/fantasy/64da37b79c8c678afd0bb772/osa-vs-ath-20k/ to /fantasy
+19:26:25	Warning: 	Found for https://kobobid.com/fantasy/64da37b79c8c678afd0bb773/osa-vs-ath-10k-1v1/
+19:26:25	Warning: 	File has moved from https://kobobid.com/fantasy/64da37b79c8c678afd0bb773/osa-vs-ath-10k-1v1/ to /fantasy
+19:26:25	Warning: 	Found for https://kobobid.com/fantasy/64da37bc9c8c678afd0bb779/whu-vs-cfc-20k/
+19:26:25	Warning: 	File has moved from https://kobobid.com/fantasy/64da37bc9c8c678afd0bb779/whu-vs-cfc-20k/ to /fantasy
+19:26:25	Warning: 	Found for https://kobobid.com/fantasy/64da37bf9c8c678afd0bb77b/fcb-vs-cad-20k/
+19:26:25	Warning: 	File has moved from https://kobobid.com/fantasy/64da37bf9c8c678afd0bb77b/fcb-vs-cad-20k/ to /fantasy
+19:26:25	Warning: 	Found for https://kobobid.com/fantasy/64da37c09c8c678afd0bb77c/fcb-vs-cad-10k-1v1/
+19:26:25	Warning: 	File has moved from https://kobobid.com/fantasy/64da37c09c8c678afd0bb77c/fcb-vs-cad-10k-1v1/ to /fantasy
+19:26:25	Warning: 	Found for https://kobobid.com/fantasy/64da4e969c8c678afd0bb786/tor-vs-cag-20k/
+19:26:25	Warning: 	File has moved from https://kobobid.com/fantasy/64da4e969c8c678afd0bb786/tor-vs-cag-20k/ to /fantasy
+19:26:25	Warning: 	Found for https://kobobid.com/fantasy/64da4e969c8c678afd0bb787/tor-vs-cag-10k-1v1/
+19:26:25	Warning: 	File has moved from https://kobobid.com/fantasy/64da4e969c8c678afd0bb787/tor-vs-cag-10k-1v1/ to /fantasy
+19:26:26	Warning: 	Found for https://kobobid.com/fantasy/64da37c59c8c678afd0bb780/ala-vs-sev-20k/
+19:26:26	Warning: 	File has moved from https://kobobid.com/fantasy/64da37c59c8c678afd0bb780/ala-vs-sev-20k/ to /fantasy
+19:26:26	Warning: 	Found for https://kobobid.com/fantasy/64da37c59c8c678afd0bb781/ala-vs-sev-10k-1v1/
+19:26:26	Warning: 	File has moved from https://kobobid.com/fantasy/64da37c59c8c678afd0bb781/ala-vs-sev-10k-1v1/ to /fantasy
+19:26:26	Warning: 	Found for https://kobobid.com/fantasy/64da37c29c8c678afd0bb77e/cry-vs-ars-20k/
+19:26:26	Warning: 	File has moved from https://kobobid.com/fantasy/64da37c29c8c678afd0bb77e/cry-vs-ars-20k/ to /fantasy
+19:26:26	Warning: 	Found for https://kobobid.com/fantasy/64da37c69c8c678afd0bb783/gra-vs-ray-20k/
+19:26:26	Warning: 	File has moved from https://kobobid.com/fantasy/64da37c69c8c678afd0bb783/gra-vs-ray-20k/ to /fantasy
+19:26:26	Warning: 	Found for https://kobobid.com/fantasy/64da37c69c8c678afd0bb784/gra-vs-ray-10k-1v1/
+19:26:26	Warning: 	File has moved from https://kobobid.com/fantasy/64da37c69c8c678afd0bb784/gra-vs-ray-10k-1v1/ to /fantasy
+19:28:04	Warning: 	Link https://kobobid.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+19:30:38	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cdn.kobobid.com/web/fantasy/tournament_icons/EPL-100K-Guaranteed.png?v=10.72 (from https://kobobid.com/fantasy/64dbb7eb4a599ab4d3335962/tot-vs-mnu-100k-guaranteed/)
+19:30:38	Warning: 	Retry after error -4 (Connect Error) at link https://kobobid.com/account/history/fantasy-wins/64dbb7eb4a599ab4d3335962 (from https://kobobid.com/fantasy/64dbb7eb4a599ab4d3335962/tot-vs-mnu-100k-guaranteed/)
+19:30:38	Warning: 	Retry after error -4 (Connect Error) at link https://kobobid.com/account/profile/bio (from https://kobobid.com/fantasy/64dbb7eb4a599ab4d3335962/tot-vs-mnu-100k-guaranteed/)
+19:30:40	Error: 	"Forbidden" (403) at link https://cdn.kobobid.com/live/css/owl.video.play.png (from https://cdn.kobobid.com/live/css/owl.carousel.min.css)
+19:34:49	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/dji3d7au6-sunshine2323.png (from https://kobobid.com/raffles/646e23817732910008f601e9/10-000-cash)
+19:35:44	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/8p0xuv8mp8-ttemmy.png (from https://kobobid.com/raffles/6474611f14ab6b00088ec6ae/1-000-cash)
+19:35:44	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/dzjz5xzgyg-ttemmy.png (from https://kobobid.com/raffles/6474611f14ab6b00088ec6ae/1-000-cash)
+19:35:45	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://kobobid.com/raffles/6424a514f82f4d000876c3e1/5-000-cash (from https://kobobid.com/raffle-winners?page=2)
+19:38:16	Warning: 	Found for https://kobobid.com/account/history/fantasy-wins/64dbb7eb4a599ab4d3335962
+19:38:16	Warning: 	File has moved from https://kobobid.com/account/history/fantasy-wins/64dbb7eb4a599ab4d3335962 to /login
+19:38:16	Warning: 	Retry after error -4 (Connect Error) at link https://kobobid.com/account/profile/bio (from https://kobobid.com/fantasy/64dbb7eb4a599ab4d3335962/tot-vs-mnu-100k-guaranteed/)
+19:38:29	Warning: 	Retry after error -4 (Connect Error) at link https://cdn.kobobid.com/web/product/63fe795e64e9187b01475ed9/krgkueuiol-hisense-32-a1500-full-hd-led-tv-2.png (from https://kobobid.com/products/649450dc66973005cd128858/hisense-32-a1500-full-hd-led-tv)
+19:41:04	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/giagby8t-sevensix.png (from https://kobobid.com/raffles/6407cd8c9875d50008293b92/2-000-cash)
+19:41:04	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/s1hroenplh-odionfriday0.png (from https://kobobid.com/raffles/63ff855498431f0008da41be/2-000-cash)
+19:41:04	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/azf0qlxfx-flashboy25.png (from https://kobobid.com/raffles/63dbc1887e23140008ba9ac2/5-000-cash)
+19:41:04	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/grvs90tmfb-flashboy25.png (from https://kobobid.com/raffles/63dbc1887e23140008ba9ac2/5-000-cash)
+19:41:05	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/cyalpcu2c-buchi.png (from https://kobobid.com/raffles/63087e5538b0d000099cb5b7/50-000-cash)
+19:42:03	Warning: 	Found for https://kobobid.com/account/profile/bio
+19:42:03	Warning: 	File has moved from https://kobobid.com/account/profile/bio to /login
+19:42:03	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://kobobid.com/account/buy?utm_source=Auctions&utm_medium=Banner&utm_campaign=Promo&utm_id=Promo (from https://kobobid.com/auctions/?category=5ffc1c28e110d05743f2908e)
+19:42:05	Warning: 	Retry after error -5 (error:00000006:lib(0):func(0):EVP lib) at link https://cdn.kobobid.com/web/product/8caqh0f82b/0kk04p2n1o-philips-steam-iron-1.png (from https://kobobid.com/products/64c84d6166973005cd12886b/philips-steam-iron)
+19:42:06	Warning: 	Retry after error -4 (Connect Error) at link https://cdn.kobobid.com/web/product/8caqh0f82b/hoxklfvb8c-philips-steam-iron-2.png (from https://kobobid.com/products/64c84d6166973005cd12886b/philips-steam-iron)
+19:42:40	Warning: 	Retry after error -2 (Receive Time Out) at link https://cdn.kobobid.com/web/product/uqog62sxl/660fi7jbbk-silver-crest-german-heavy-duty-commercial-blender-5000w-1.png?v=10.72 (from https://kobobid.com/products/64c84d6166973005cd12887a/silver-crest-heavy-duty-commercial-blender)
+19:42:40	Warning: 	Retry after error -2 (Receive Time Out) at link https://cdn.kobobid.com/web/product/xjvd7i9se/kk8u4gswpu-maxi-water-dispenser-wd-1675s-b-1.png?v=10.72 (from https://kobobid.com/products/64c84d6166973005cd12887c/maxi-water-dispenser-wd-1675s-b)
+19:43:19	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/6lrjjulkah-dodyoz.png (from https://kobobid.com/raffles/638f4afc1000a1000883e58b/5-000-cash)
+19:46:25	Warning: 	Found for https://kobobid.com/account/buy?utm_source=Auctions&utm_medium=Banner&utm_campaign=Promo&utm_id=Promo
+19:46:25	Warning: 	File has moved from https://kobobid.com/account/buy?utm_source=Auctions&utm_medium=Banner&utm_campaign=Promo&utm_id=Promo to /login
+19:46:25	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/edxlx3ttia-hallelove12.png (from https://kobobid.com/raffles/630934799688d90009c09431/1-000-cash)
+19:46:25	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/pfxkt3yicp-taiyeafeez.png (from https://kobobid.com/raffles/62d70e3089169b00093953a0/1-000-cash)
+19:46:25	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/upzq86ld9i-taiyeafeez.png (from https://kobobid.com/raffles/62d70e3089169b00093953a0/1-000-cash)
+19:47:12	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/32uk4a1uxa-rankadede.png (from https://kobobid.com/raffles/624d363de021270009b6b945/5-000-cash)
+19:47:12	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/yywi9hh1xn-stankool.png (from https://kobobid.com/raffles/615f8a0603a1bd585f8c52d2/500-000-cash)
+19:47:12	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/qt8vtt35ac-spiritfilled.png (from https://kobobid.com/raffles/615f8a0603a1bd585f8c52d2/500-000-cash)
+19:48:23	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/gaitozfa3-samtechltd.png (from https://kobobid.com/raffles/61b4a2b72c8b6106af896e9f/50-000-cash)
+19:48:23	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/jfn3bduvys-perfecto.png (from https://kobobid.com/raffles/619b962d97400c0009333df4/100-000-cash)
+19:48:23	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/grnh012gxo-ceaserp.png (from https://kobobid.com/raffles/61e1c725b6932b0009e35fcf/5-000-cash)
+19:48:23	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/5pch3qcdys-oyendee.png (from https://kobobid.com/raffles/61ba43d6f747930009f435fb/5-000-cash)
+19:48:24	Error: 	"Forbidden" (403) at link https://kobobid.com/avatar/fbf0y42wz8-jessy55.png (from https://kobobid.com/raffles/6194140590e9ee0008380404/50-000-cash)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 minutes 53 seconds : 963 links scanned, 912 files written (131599045 bytes overall) [71800268 bytes received at 38748 bytes/sec], 72951658 bytes transferred using HTTP compression in 433 files, ratio 16%, 8.1 requests per connection
+(22 errors, 43 warnings, 0 messages)

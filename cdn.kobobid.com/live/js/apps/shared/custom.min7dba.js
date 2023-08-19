@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".call_btn").click(function(){$(".call_us").slideDown();$(".form_sec").slideUp()});$(".form_btn").click(function(){$(".form_sec").slideDown();$(".call_us").slideUp()})});
